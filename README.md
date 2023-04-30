@@ -21,7 +21,7 @@ npm run start
 
 
 ### MIT Licence
-###Copyright (c) 2020 Ania Kubow
+### Copyright (c) 2020 Ania Kubow
 
 
 
